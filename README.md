@@ -1,0 +1,1 @@
+# mirror-kube-controller-manager-amd64
